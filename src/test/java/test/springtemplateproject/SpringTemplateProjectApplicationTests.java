@@ -1,4 +1,4 @@
-package test.maryem.springtemplateproject;
+package test.springtemplateproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
