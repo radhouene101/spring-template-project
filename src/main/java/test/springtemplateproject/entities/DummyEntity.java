@@ -12,11 +12,11 @@ import java.util.List;
 public class DummyEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer idLog;
+    private Long idLog;
     private String description;
     private boolean reserve;
-    float prixUnit;
-    int quantite;
+    private Float prixUnit;
+    private Integer quantite;
 
 
 }
