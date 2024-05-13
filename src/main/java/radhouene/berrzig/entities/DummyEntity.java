@@ -1,4 +1,4 @@
-package test.springtemplateproject.entities;
+package radhouene.berrzig.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;

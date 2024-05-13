@@ -1,4 +1,4 @@
-package test.springtemplateproject;
+package radhouene.berrzig;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

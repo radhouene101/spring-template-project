@@ -8,7 +8,7 @@
         <version>3.2.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>test.maryem</groupId>
+    <groupId>radhouene.berrzig</groupId>
     <artifactId>spring-template-project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-template-project</name>

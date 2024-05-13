@@ -1,11 +1,8 @@
-package test.springtemplateproject.repositories;
+package radhouene.berrzig.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import test.springtemplateproject.entities.DummyEntity;
-
-
-import java.util.List;
+import radhouene.berrzig.entities.DummyEntity;
 
 @Repository
 public interface DummyRepository extends JpaRepository<DummyEntity, Integer> {

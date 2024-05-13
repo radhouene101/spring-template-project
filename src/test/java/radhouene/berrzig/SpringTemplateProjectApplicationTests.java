@@ -1,4 +1,4 @@
-package test.springtemplateproject;
+package radhouene.berrzig;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
